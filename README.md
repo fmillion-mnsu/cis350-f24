@@ -8,3 +8,5 @@
   * [Password Haystacks](https://www.grc.com/haystack.htm) - Analyze how secure a password might be, and how long a theoretical attack might take.
 * Assignments:
   * [Individual Assignment #1](I_ASSIGN1.md)
+  * [Group Assignment #1](G_ASSIGN1.md)
+* [How to import virtual machine images into your VMware environment](VM_IMPORT.md)
