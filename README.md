@@ -11,4 +11,5 @@
   * [Individual Assignment #1](I_ASSIGN1.md)
   * [Individual Assignment #2](I_ASSIGN2.md)
   * [Group Assignment #1](G_ASSIGN1.md)
+  * [Group Assignment #2](G_ASSIGN2.md)
 * [How to import virtual machine images into your VMware environment](VM_IMPORT.md)
