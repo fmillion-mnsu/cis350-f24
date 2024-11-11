@@ -34,7 +34,7 @@ For this exercise, you need to download a virtual machine image. The images can 
 
     ![Screenshot showing target VM with code words and IP](assets/asgn2_target.png)
 
-    **Take a screenshot of this screen**. The four code words on screen are required as part of your submission - not including these code words will result in significant loss of points.
+    **Take a screenshot of this screen** or otherwise note the code words. You do not need to submit an actual screenshot of the code words as part of your submission (as you will see later), but the four code words on screen *are* required as part of your submission - not including these code words will result in significant loss of points.
 
 1. Now, start up your Kali Linux VM.
 
@@ -42,7 +42,7 @@ For this exercise, you need to download a virtual machine image. The images can 
 
     > **Hint:**
     >
-    > On VirtualBox, the default resolution for Kali is quite small (800x600). You may want to raise the resolution of the virtual machine so that you can fit more on the screen, especially if you have a large monitor or a high-resolution display.
+    > Depending on your platform, you may find that the default resolution for Kali is quite small (800x600). If so, you may want to raise the resolution of the virtual machine so that you can fit more on the screen, especially if you have a large monitor or a high-resolution display.
     >
     > To do this, choose the Display Settings option.
     >
@@ -71,6 +71,8 @@ For this exercise, you need to download a virtual machine image. The images can 
     ![Example screenshot of ping capture](assets/wshark_03.png)
 
     **Take a screenshot of Wireshark** showing this. You can do this from outside the VM.
+
+    **Press Ctrl+C in the terminal to stop the ping operation.**
 
 1. Now, open the Firefox browser. You'll see it on the top bar right next to the terminal icon.
 
