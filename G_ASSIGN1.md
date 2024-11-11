@@ -28,7 +28,7 @@ There are two sets of images - one for VirtualBox users who are using Windows or
 
 1. **VERY IMPORTANT**: You MUST connect your virtual machines to a **Host-Only** network. (Failing to do this will result in significant point loss!) 
 
-   On Windows, go into thE VM settings and ensure the network adapter is set to Host-Only.
+   On Windows, go into the VM settings and ensure the network adapter is set to Host-Only.
 
    ![VMware settings window showing the network set to Host Only](assets/win_hostonly.png)
 
