@@ -47,13 +47,13 @@ This is an **individual** assignment. All class members must submit an original,
 
 ## Scoring Rubric
 
-This assignment is worth 100 points. Points are assigned as follows:
+This assignment is worth 50 points. Points are assigned as follows:
 
 | Item | Points | Penalties |
 |-|-|-|
-| Provided information on the specifics of the breach scenario - what data was stolen and how it might impact the victims | 30 | Variable point loss if significant or important details are missing. |
-| Provided practical guidance for users who are victims of the breach scenario | 30 | Variable point loss if significant or important details are missing. |
-| Provided information on mitigation of negative effects from the attack for both the user (e.g. offers of discounted monitoring) and the organization (e.g. resetting accounts with stolen passwords) | 30 | Variable point loss if poor/incorrect advice given or advice is missing. |
-| Document uploaded in correct format (Word or PDF) | 10 | Loss of points if document is not in PDF or Word format. **More or all points may be lost if I can't convert your submission into a readable format!** |
+| Provided information on the specifics of the breach scenario - what data was stolen and how it might impact the victims | 15 | Variable point loss if significant or important details are missing. |
+| Provided practical guidance for users who are victims of the breach scenario | 15 | Variable point loss if significant or important details are missing. |
+| Provided information on mitigation of negative effects from the attack for both the user (e.g. offers of discounted monitoring) and the organization (e.g. resetting accounts with stolen passwords) | 15 | Variable point loss if poor/incorrect advice given or advice is missing. |
+| Document uploaded in correct format (Word or PDF) | 5 | Loss of points if document is not in PDF or Word format. **More or all points may be lost if I can't convert your submission into a readable format!** |
 
 Late submissions will receive a total loss of percentage of earned points based on the syllabus's Late Work policy. **Submissions 3 days late or later will receive 0 points.**
