@@ -2,11 +2,9 @@
 
 **Due Date: December 1, 2024 at 11:59 PM**
 
-For this assignment, you will assume the role of a cybersecurity professional in an organization that has recently suffered a cyberattack and its operations have been compromised. You have also lost control of some personally-identifiable information (PII) has been exfiltrated from the organization.
+For this assignment, you will assume the role of a cybersecurity professional in an organization that has recently suffered a serious cyberattack and its operations have been compromised. You have also lost control of some personally-identifiable information (PII) has been exfiltrated from the organization.
 
-Your task is to write two disclosure notices: one for customers of the organization whose services will be impacted, and one for anyone who the organization discovers may have been affected by the PII leak.
-
-When discussing the data that was leaked, assume that a significant amount of PII was breached - "your first name alone" is insufficient as it is not unique enough to identify a specific individual.
+Your task is to write **two** disclosure notices: one for customers of the organization whose services will be impacted, and one for anyone who the organization believes may have been affected by the PII leak.
 
 See the Content section for more guidance on what is expected in terms of data breached and mitigations.
 
